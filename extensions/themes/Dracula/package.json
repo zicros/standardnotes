@@ -5,7 +5,7 @@
   "area": "themes",
   "version": "1.2.1",
   "description": "A Dracula inspired theme for Standard Notes",
-  "url": "https://cdn.jsdelivr.net/gh/cameronldn/sn-theme-dracula@1.2.1/dist/dist.css",
+  "url": "https://raw.githubusercontent.com/cameronldn/sn-theme-dracula/master/dist/dist.css",
   "download_url": "https://github.com/cameronldn/sn-theme-dracula/archive/1.2.1.zip",
   "latest_url": "https://raw.githubusercontent.com/zicros/standardnotes/master/extensions/themes/Dracula/package.json",
   "marketing_url": "https://github.com/cameronldn/sn-theme-dracula",
