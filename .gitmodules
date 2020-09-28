@@ -1,0 +1,3 @@
+[submodule "docs/rich_markdown_editor"]
+	path = docs/rich_markdown_editor
+	url = https://github.com/arturolinares/sn-rme
