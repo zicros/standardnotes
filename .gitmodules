@@ -7,3 +7,6 @@
 [submodule "docs/vim_editor"]
 	path = docs/vim_editor
 	url = https://github.com/sn-extensions/vim-editor
+[submodule "docs/theme_dracula"]
+	path = docs/theme_dracula
+	url = https://github.com/cameronldn/sn-theme-dracula
