@@ -1,0 +1,13 @@
+{
+  "identifier": "com.github.arturolinares.sn-rme",
+  "name": "Rich Markdown Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "0.11.0",
+  "description": "A WYSIWYG Markdown editor that supports youtube embeds.",
+  "url": "https://arturolinares.github.io/sn-rme/index.html",
+  "download_url": "https://github.com/arturolinares/sn-rme/archive/0.11.0.zip",
+  "latest_url": "https://listed.to/p/K6AXOLFLF6",
+  "marketing_url": "https://github.com/arturolinares/sn-rme",
+  "thumbnail_url": "https://github.com/arturolinares/sn-rme/raw/master/images/screenshot.png"
+}
