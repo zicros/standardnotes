@@ -5,7 +5,7 @@
   "area": "editor-editor",
   "version": "1.3.2",
   "description": "A vim editor for Standard Notes.",
-  "url": "https://github.com/sn-extensions/vim-editor/raw/1.3.2/index.html",
+  "url": "https://zicros.github.io/standardnotes/vim_editor/index.html",
   "download_url": "https://github.com/sn-extensions/vim-editor/archive/1.3.2.zip",
   "latest_url": "https://raw.githubusercontent.com/zicros/standardnotes/master/extensions/components/Vim%20Editor/package.json",
   "marketing_url": "https://github.com/sn-extensions/vim-editor"

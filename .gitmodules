@@ -1,3 +1,9 @@
 [submodule "docs/rich_markdown_editor"]
 	path = docs/rich_markdown_editor
 	url = https://github.com/arturolinares/sn-rme
+[submodule "docs/minimal_markdown_editor"]
+	path = docs/minimal_markdown_editor
+	url = https://github.com/sn-extensions/minimal-markdown-editor
+[submodule "docs/vim_editor"]
+	path = docs/vim_editor
+	url = https://github.com/sn-extensions/vim-editor
