@@ -1,4 +1,0 @@
-[submodule "RichMarkdownEditor"]
-  path = rich_markdown_editor
-  url = https://github.com/arturolinares/sn-rme
-  branch = stable
