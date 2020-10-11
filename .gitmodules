@@ -10,3 +10,6 @@
 [submodule "docs/theme_dracula"]
 	path = docs/theme_dracula
 	url = https://github.com/cameronldn/sn-theme-dracula
+[submodule "docs/simple-task-editor"]
+	path = docs/simple-task-editor
+	url = https://github.com/sn-extensions/simple-task-editor
